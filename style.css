@@ -1,0 +1,10 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    font-style: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: red;
+}
